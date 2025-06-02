@@ -119,7 +119,7 @@ The project follows a multi-container Docker architecture consisting of three ma
 
 
 9. **Contact**
-    For any inquiries or issues, please contact [me]([https://www.linkedin.com/in/sudhanshu--pandey/](https://in.linkedin.com/in/jithendra-kantharaju))
+    For any inquiries or issues, please contact [me](https://www.linkedin.com/in/sudhanshu--pandey/](https://in.linkedin.com/in/jithendra-kantharaju)
 
 
 ### Configure AWS EKS Cluster
