@@ -2,7 +2,7 @@
 
 The architecture diagram below illustrates the interactions between the services:
 
-![Architecture Diagram](Screenshots/![project-architecture_EKS](https://github.com/user-attachments/assets/11f291ef-9f9e-460f-bbb1-561dcc98a3d2)
+![Architecture Diagram](https://github.com/user-attachments/assets/11f291ef-9f9e-460f-bbb1-561dcc98a3d2)
 
 
 
