@@ -1,9 +1,13 @@
 # Devops-Movie-Streaming-APP
 
+📺 Missed the sessions? Watch the full workshop here(Youtube):
+- 🔗 Day1(Introduction to Devops): https://www.youtube.com/watch?v=JRmV_mKnnyU
+- 🔗 Day2(Docker): https://www.youtube.com/watch?v=b0jb_uC9Dck
+- 🔗 Day3(Movie Streaming App practical & EKS): https://www.youtube.com/watch?v=Cy4nay9PcA4
+
 The architecture diagram below illustrates the interactions between the services:
 
-![Architecture Diagram](https://github.com/user-attachments/assets/11f291ef-9f9e-460f-bbb1-561dcc98a3d2)
-
+![Architecture Diagram](Screenshots/project-architecture_EKS.png)
 
 
 ## Overview
@@ -15,8 +19,7 @@ The DevOps Movie Streaming App is a FullStack application built using **Express*
 - **Search**: Provides a search interface to find movies by title or genre.
 - **Watch**: Enables users to watch selected movies.
 
-![Movie Gallery](https://github.com/user-attachments/assets/c70b2cc3-9d10-4add-9415-2aade535e39c)
-
+![Movie Gallery](Screenshots/demo_app.png)
 
 The backend is built using Express.js and exposes an API endpoint at `/movies` for managing movie data. Movie media files (images and videos) are uploaded to an AWS S3 bucket using the AWS SDK.
 
@@ -45,7 +48,7 @@ The project follows a multi-container Docker architecture consisting of three ma
 ### Running the Application
 
 1. **Fork & Clone the repository**:
-    - Fork the repository https://github.com/Jithendra-Kantharaju/Movie-Streaming-App-DevOps
+    - Fork the repository https://github.com/sudhanshuvlog/Movie-Streaming-App-DevOps.git
     - Once you have forked the repo on your github account, Clone the repo in your system
         ```bash
         git clone <your repo URL>
@@ -120,7 +123,7 @@ The project follows a multi-container Docker architecture consisting of three ma
 
 
 9. **Contact**
-    For any inquiries or issues, please contact [me](https://in.linkedin.com/in/jithendra-kantharaju)
+    For any inquiries or issues, please contact [me](https://www.linkedin.com/in/sudhanshu--pandey/)
 
 
 ### Configure AWS EKS Cluster
