@@ -1,13 +1,7 @@
 # Devops-Movie-Streaming-APP
 
-📺 Missed the sessions? Watch the full workshop here(Youtube):
-- 🔗 Day1(Introduction to Devops): https://www.youtube.com/watch?v=JRmV_mKnnyU
-- 🔗 Day2(Docker): https://www.youtube.com/watch?v=b0jb_uC9Dck
-- 🔗 Day3(Movie Streaming App practical & EKS): https://www.youtube.com/watch?v=Cy4nay9PcA4
-
 The architecture diagram below illustrates the interactions between the services:
-
-![Architecture Diagram](Screenshots/project-architecture_EKS.png)
+![Architecture Diagram](https://github.com/user-attachments/assets/97a43e79-eaeb-4967-863e-63edfc5ece21)
 
 
 ## Overview
@@ -19,7 +13,8 @@ The DevOps Movie Streaming App is a FullStack application built using **Express*
 - **Search**: Provides a search interface to find movies by title or genre.
 - **Watch**: Enables users to watch selected movies.
 
-![Movie Gallery](Screenshots/demo_app.png)
+![Movie Gallery](https://github.com/user-attachments/assets/36e578c1-efae-4817-b14d-933bb062cb39)
+
 
 The backend is built using Express.js and exposes an API endpoint at `/movies` for managing movie data. Movie media files (images and videos) are uploaded to an AWS S3 bucket using the AWS SDK.
 
@@ -48,7 +43,7 @@ The project follows a multi-container Docker architecture consisting of three ma
 ### Running the Application
 
 1. **Fork & Clone the repository**:
-    - Fork the repository https://github.com/sudhanshuvlog/Movie-Streaming-App-DevOps.git
+    - Fork the repository https://github.com/Jithendra-Kantharaju/Movie-Streaming-App-DevOps
     - Once you have forked the repo on your github account, Clone the repo in your system
         ```bash
         git clone <your repo URL>
@@ -123,7 +118,7 @@ The project follows a multi-container Docker architecture consisting of three ma
 
 
 9. **Contact**
-    For any inquiries or issues, please contact [me](https://www.linkedin.com/in/sudhanshu--pandey/)
+    For any inquiries or issues, please contact [me](https://in.linkedin.com/in/jithendra-kantharaju)
 
 
 ### Configure AWS EKS Cluster
