@@ -45,7 +45,7 @@ The project follows a multi-container Docker architecture consisting of three ma
 ### Running the Application
 
 1. **Fork & Clone the repository**:
-    - Fork the repository https://github.com/sudhanshuvlog/Movie-Streaming-App-DevOps.git
+    - Fork the repository https://github.com/Jithendra-Kantharaju/Movie-Streaming-App-DevOps
     - Once you have forked the repo on your github account, Clone the repo in your system
         ```bash
         git clone <your repo URL>
